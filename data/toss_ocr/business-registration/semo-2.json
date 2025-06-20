@@ -1,0 +1,405 @@
+{
+  "url": "https://www.tosspayments.com/blog/articles/semo-2",
+  "title": "사업자등록증 발급, 한 번에 성공하기",
+  "content_ordered": [
+    {
+      "type": "text",
+      "data": "[사장님백서]"
+    },
+    {
+      "type": "text",
+      "data": "헛걸음하지 않고 사업자등록 신청하는 법"
+    },
+    {
+      "type": "text",
+      "data": "💣 사업자등록 신청은 30분도 안 걸리지만, 내용을 잘못 작성하면 세금 폭탄을 맞을지 몰라요."
+    },
+    {
+      "type": "text",
+      "data": "먼저 읽고 사업자등록 신청 전 체크리스트 3가지를 확인해 보세요."
+    },
+    {
+      "type": "text",
+      "data": "확인이 끝나셨다면 아래 2가지 방법 중 더 편한 방법을 선택해 사업자등록 신청하고 나라에서 인정하는 진짜 사장님이 되어보세요."
+    },
+    {
+      "type": "text",
+      "data": "1. 세무서 직접 방문"
+    },
+    {
+      "type": "text",
+      "data": "집 근처 세무서에서 사업자등록 신청을 할 수 있어요. 거주지와 사업장 주소가 다른 경우, 사업장 주소지 관할 세무서에서 신청하면 더 빠르게 사업자등록 처리를 끝낼 수 있어요. >>"
+    },
+    {
+      "type": "text",
+      "data": "✅ 꼭 챙기세요"
+    },
+    {
+      "type": "text",
+      "data": "① 신분증"
+    },
+    {
+      "type": "text",
+      "data": "주민등록증, 운전면허증, 여권 중 1개를 꼭 챙겨주세요."
+    },
+    {
+      "type": "text",
+      "data": "② 사업자등록 신청서"
+    },
+    {
+      "type": "text",
+      "data": "세무서에 가면 사업자등록 신청서가 있습니다. 방문 전에 온라인으로 미리 신청 서류를 뽑아 작성해 가면 시간을 아낄 수 있어요. >>"
+    },
+    {
+      "type": "text",
+      "data": "☝️"
+    },
+    {
+      "type": "text",
+      "data": "혹시 사업자 대신 신청하러 간다면?"
+    },
+    {
+      "type": "text",
+      "data": "사업자등록 신청서를 미리 출력해 위임장 부분에 사업자 본인의 서명을 받아 방문하셔야 합니다. 위임장과 함께 사업자의 신분증, 신청 대리인의 신분증도 반드시 챙겨주세요."
+    },
+    {
+      "type": "text",
+      "data": "③ 임대차계약서 사본"
+    },
+    {
+      "type": "text",
+      "data": "본인 소유의 사업장이 아닐 경우 날인된 임대차계약서를 복사해 준비해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "재외국민이거나 공동사업자가 있거나 특정 업종일 경우 추가 서류가 필요할 수도 있어요. 헛걸음을 하시는 일이 없도록 내 사업 상황에 필요한 제출 서류를 꼭 확인하고 세무서를 방문해 주세요. \n>>"
+    },
+    {
+      "type": "text",
+      "data": "📘"
+    },
+    {
+      "type": "text",
+      "data": "신청 방법"
+    },
+    {
+      "type": "text",
+      "data": "세무서 안내 데스크에 문의하시면 사업자등록증 신청 관할 부서와 위치를 안내받을 수 있어요. 준비물만 꼼꼼하게 챙기면 담당자의 도움을 받아 한 번에 끝낼 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "2. 온라인 신청"
+    },
+    {
+      "type": "text",
+      "data": "온라인으로도 사업자등록 신청을 하실 수 있어요. 관할 세무서와 거리가 멀거나 세무서 방문이 어려운 분들은 집에서 신청해 보세요."
+    },
+    {
+      "type": "text",
+      "data": "공동·금융인증서 로그인 후 진행되기 때문에 별도로 신분증을 준비하실 필요가 없어요. 재외국민인 경우에만 재외국민등록증, 재외국민 등록부등본 또는 여권사본 등을 준비해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "온라인에서 사업자등록 신청서를 직접 입력하기 때문에 별도로 준비하실 필요가 없어요."
+    },
+    {
+      "type": "text",
+      "data": "③ 임대차계약서"
+    },
+    {
+      "type": "text",
+      "data": "본인 소유의 사업장이 아닐 경우 날인된 임대차계약서를 PDF 파일로 준비해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "재외국민이거나 공동사업자가 있거나 특정 업종일 경우 추가 서류가 필요할 수도 있어요. 헛걸음을 하시는 일이 없도록 내 사업 상황에 필요한 제출 서류를 꼭 확인하고 세무서를 방문해 주세요. >>"
+    },
+    {
+      "type": "text",
+      "data": "📘 신청 방법\n①"
+    },
+    {
+      "type": "text",
+      "data": "사이트에서 ‘공동·금융인증서’로 로그인해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "공동·금융인증서 클릭 시 팝업 화면 왼쪽에서 원하는 인증 방식을 선택하실 수 있어요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/0555f1df-dcbb-4c05-a17d-939194911d3f?&w=3840&q=75",
+      "ocr_text": "로 그 윈 sini Bel SMRRsROIN . 국 세 상 담 센 더 Were walt) 7elet7| ata] (=) 100% [\n\n조 회 발 급 민 원 증 명 Mae 신 고 / 납 부 상 담 / 제 보 세 무 대 리 / 납 세 관 리 툴쐐 BNO\n\n국 세 청 홈 택 스 에 오 신 것 을 환 영 합 니 다 .\n© 로 그 인 안 되 는 경 우 [ 로 그 인 안 내틀 눌 러 도 움 받 으 세 요 。 로 그 인 환 내 Pcs 보 안 프 로 그 램 펀\n생 체 인 증 비 회 원 로 그 인 회 원 가 입 tee\n\ncis\n\nSS 금 융 인 증 서 로 로 그 인 하 려면 해 당 인 증 서 가\n홈 택 스 에 사 전 등 록 되 어 있 어 야 합 니 다 .\n\n끓 공 동 - 금 융 인 증 서\n\n인 3 서 로 그 인 완 내"
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/b25aeeaa-fdbd-46f8-b81d-497937ec86a4?&w=3840&q=75",
+      "ocr_text": "pa Se\n( 브 바 뜨 피 서 NSH)\nSe a\n| agg? . 8브 . 모\nNew BM vt\nSa) = | ee | ee)\n\n연 증 서 저장 위 치 선태\n\nWE a7 eae\n\nsesslnes as\n[yenssevsaauadedsdcdonsenic )\n\na\n\n서 인 증 서 사 용 안 내\n\nBy Saas ano ie 2\n\nfees BAKES EM SBI\n\nO cierisseme rior om 2\n\n© ewe i= 이켜 는 AP Ie?\nGMMR om oot 따 일 2 게\n\nEorcatonietiey\n\n© ee: 08 a = SP HIE OB.\n\n© cae snip ot a9 se oO\nHes: masse ores xe ste\nONE ie: 브져 서 xT\nㅋ nagep ye tenets\n\ntd\n\n© exo see BEHREON BAP\nBega aI Ate BAA OL\nEge sehoniow ebact\n\nBS Reena sacs\nS ewe asa\n\nO om, gaenes os\n\n© aceon exon Be we\n\n© weirs eG one 2)\n\n1 뿌 ac si oA 371"
+    },
+    {
+      "type": "text",
+      "data": "② 상단 메뉴에서 신청/제출 혹은 하단 세금종류별 서비스에서 사업자등록을 선택해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/23c9d810-5321-4aac-9895-27cd66a17351?&w=3840&q=75",
+      "ocr_text": "Daca\naaa"
+    },
+    {
+      "type": "text",
+      "data": "③ 개인/법인 중 원하는 유형의 사업자등록 신청 버튼을 선택해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "이 글에서는 (개인) 사업자등록 신청을 선택해 진행해 볼게요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/f71eff06-ca58-4467-a73e-7ee063d0e996?&w=3840&q=75",
+      "ocr_text": "“\n\n* 속\n\n( 개 인 ) 사 업 자 등 록 24\n\n( 애 인 ) 사 업 자 등 록 신 청\n( 개 인 ) 사 업 자 등 록 정 정\n( 법 인 ) 사 업 자 등 록 신 청\n( 범 인 ) 사 업 자 등 록 정 정\n\n민 원 처 리 결 과 조 회\n\n! 청"
+    },
+    {
+      "type": "text",
+      "data": "④ 상호명과 인적사항을 적어줍니다."
+    },
+    {
+      "type": "text",
+      "data": "공동금융인증서로 로그인했기 때문에 대표자 이름과 주민등록번호는 자동으로 입력돼요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/425a6817-22d5-40f4-ba05-082087714d2c?&w=3840&q=75",
+      "ocr_text": "사 업 자 등 록 신 청 ( 개 인 )\n\n개 인 사 업 자 등 록 을 신 청 하 는 민 원 입 니 다 .\n\n© 인 적 사 항 ae\n= 기 본 정 보\n\n* 상 호 명 ( 단 체 명 )\n\n* 주 민 등 록 번 호\n\n* 성 명 ( 대 표 자 )\n휴 대 전 화 번 호\n전 자 메 일 주 소\n\n직 접 입 력\n\n사 업 장 전 화 번 호\n\n자 택 전 화 번 호\n\n펙 스 번 호\n\n국 세 정 보 문 자 수 신 동 의\n국 세 정 보 이 메 일 수 신 동 의\n\n동 의 함\n\n통 의 함\n\n동 의 하 지 않 음\n\n동 의 하 지 않 음"
+    },
+    {
+      "type": "text",
+      "data": "⑤ 사업장(단체) 주소를 적어주세요."
+    },
+    {
+      "type": "text",
+      "data": "주민등록상 입력된 주소와 사업장 주소가 같을 경우 여, 아닐 경우 부를 선택해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/3ba31707-40bd-45b5-a20b-42da103137db?&w=3840&q=75",
+      "ocr_text": "© 사 업 장 ( 단 체 ) 소 재 지\n* 주 소 지 동 일 여 부\n\n* 기 본 주 소\n\n여 @F\n\nPaes Baus\n도 로 명 주 소\n\n지 번 주 소\n\n건 물 명\n\n기 타 주 소"
+    },
+    {
+      "type": "text",
+      "data": "⑥ 업종 입력/수정 버튼을 눌러 업종 코드를 입력해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/4546b7d5-6509-44dc-a123-f603f2e46bf2?&w=3840&q=75",
+      "ocr_text": "© 임 종 선 택 ㅋ 전 체 업 종 내 려 받 기 _ 엄 종 임 력 / 수 정 선 택 내 용 삭 제\n\n선 텍 、 업 종 구 분 업 종 코 드 업 태 명 업 종 명 산 업 분 류 코드 제 출 서 류\n\n© 사 업 장 정 보 추 가 입 력\n\nㆍ 선 택 한 업 종이 영 위 하 고 자 하 는 사 업 내 용 을 정 확 하 게 반 영 하 지 못 하 는 경 우 에 는 , 실 제 영 위 하 고 자 하 는 사 업 에 대 한 설 명 을 추 가 입 력 하 시기 바 랍 니 다 .\n\n사 업 설 명"
+    },
+    {
+      "type": "text",
+      "data": "⑦ 사업장 정보를 입력해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "사업장이 본인 소유일 경우 서류 제출 단계에서 임대차계약서를 첨부하지 않아도 돼요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/e52c96ca-ea01-42d9-8ad8-9caead5cfb82?&w=3840&q=75",
+      "ocr_text": "@ 사 엄 장 정 보 입 력\n으 기 본 정 보\nㅜ 개 업 일 자\n자 기 자 금 .\n\n© 임 대 차 내 역 입 력\n사 업 장 구 분\n자 가 면 적 .\n타 가 면 적\n\n@ see O 타 인 소 유 법 인 포 함 )\n\n“\n\n”\n\n께\n\n- 평\n\now\n\n종 업 원 수 a\n타 인 자 금 원\n\n※ 타 인 소 유 외 본 인 소 유 분 도 있 는 Be, 임 대 차 내 역 eet 후 자 가 면 적 에 추 가 기 재 하 시기 바 랍 니 다 .\n\nX 메 은 자 동 으 로 Hoe 변 환 됨\n\nXwig 자 동 으 로 평 으 로 변 환 됨"
+    },
+    {
+      "type": "text",
+      "data": "⑧ 공동사업자가 있다면 정보를 입력해 주세요. 없다면 ‘없음’을 선택해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/3dccae34-66de-4294-8c43-89132ddcc0f8?&w=3840&q=75",
+      "ocr_text": "© 공 동 사 업 자 정 보 입 력\nOras\n공 통 사 업 자 선 정 98 @ ue\naia 원 성 립 일 자"
+    },
+    {
+      "type": "text",
+      "data": "⑨ 사업자 유형을 선택해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "면세인지, 과세라면 일반사업자에 해당하는지 간이사업자에 해당하는지 미리 꼭 확인해 주세요. 부가세 납부와 관련된 항목이에요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/b1371df6-5758-4a4c-9695-e81a2b6565a5?&w=3840&q=75",
+      "ocr_text": "@ 사 엄 자 유 형 선 택\n\n* 사 업 자 유 형 O 일 반 OC 간 이 OC 면 세 © 범 인 아 닌 종 교 단 체 ( ) 종 교 단 체 이 외 의 비 사 업 자"
+    },
+    {
+      "type": "text",
+      "data": "⑩ 별도로 아래 내용에 해당하는 업종인 경우 입력해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/06a6885e-d3bd-4b81-9df3-5c94bfa5271e?&w=3840&q=75",
+      "ocr_text": "© 사 업 자 유 형 ( 선 택 사 항 ) > 아래 내 용 은 기 재 할 수\n\n분 만 기 재 하 셔 도 EILICE\n\n창 업 자 멘 토 링 서 비 스 다0 층후\n신 청 여 부 * 창 업 자 멘 토 링 서 비 스는 셰 무 대 리인이 선 임 되 어 있 지 않 은 신 규 창 업 영 세 사 업 자 에 게 영 세 남 세 자 지 원 단 의 나 눔 세 무 ㆍ 회 계 사 가\n맞 춤형 PEASE 서 비 스 를 Molt 제 도 입 니 다 .[ 지 원 배 제 대상 학 인 ]\n\n인 허 가 사 업 여 부 여 @ 부\n\n의 제 주 류 면 허 신 청 @ 없 음 O 의 제 판 매 엄 ( 일 반 소 매 ) © 의 제 판 매 업 ( 유 흥 음 식 점 )\n\n개 별 소 비 세 해 당 여 부 끝햅\n© 유 홍 업 소 내 역 ( 선 택 사 황 )\n\n허 가 관 청 허 가 구 분 @ 해 당 없 음 Ors Ove\n\n메 . 평\n허 가 번 호 허 가 면 적\nX me xSO8 Boe 변 환 됨\n© 사 이 버 를 ( 선 택 사 황 ) 사 이 버 를 입 력 / 수 정 、 선 택 내 용 삭제\n선 택 、 wens 사 이 버 를 명 칭 사 이 버 를 도 메인\n\n© 중 기 / 화 물 운 송 사 업 자 ( 선 택 사 항 ) 중 기 / 화 물 운 송 사 업 자 입 력 / 수 정 、 선 택 내 용 삭제\n\n선 택 월 련 번 호 차 량 번 호 차 대 번 호"
+    },
+    {
+      "type": "text",
+      "data": "⑪ 서류를 받을 주소를 입력한 뒤 ‘저장 후 다음’ 버튼을 눌러 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/4fd9b443-b0f3-4e6b-9ad0-c08b1863109f?&w=3840&q=75",
+      "ocr_text": "O MF 송 달 장 소 ( 사 업 장 소 와 다 를 경 우 입 력 )\n\n송 달 받 을 장 소 . 주 민 등 록 상 주 소 O 기타 © 해 당 없 음\n우 면 번 호 주 소 검 색\n도 로 명 주 소\n\n송 달 장 소 지 번 주 소\n건 물 명\n\n기 타 주 소"
+    },
+    {
+      "type": "text",
+      "data": "⑫ 제출할 서류를 첨부해 주세요. 본인에게 해당하는 파일만 올려주시면 돼요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/60247136-36f3-4c72-bbe2-5b01f22926bd?&w=3840&q=75",
+      "ocr_text": "제 출 서 류 선 택 제 출 서 류 예 시 @\n\n※ 첨 부 가 능 파 일 형 식 : PF 파 일 , 이 미 지 파 일 (106, PNG, GIF, TIF, BMP)\n\n※ 관 련 서 식 (//『?) 을 내 려 받 은 후 『 마 로 변 환 하 여 첨 부 서 류 에 추 가 할 수 있 습 니 다 .\n\n* 한 글 파 일 (1#/『) 의 POF 변 환 은 한 글 프 로 그 램 에 서 파 일 - 인 쇄 -『 마 인 쇄 기 능 을 이 용\n※ 첨 부 한 제 출 서 류는 다 음 화 면 의 ' 제 출 서 류 확 인 하 기 ' 를 통 해 확 인 가 능 합 니 다 .\n\n* 첨 부 한 내 용 이 육 안 으 로 식 별 불 가 능 한 경 우 , 업 무 처 리 가 지 연 될 수 있 습 니 다 .\n\nㆍ 첨 부 서 류\n- 대상 파 일 선 택\nAAS 파 일 찾 기\n[ 공 통 ] 임 대 차 계 약 서 사 본 ( 사 업 장 을 임 차 한 경 우 에 한 함 ) 파 일 찾 기\n[ 공 통 ] 등 록 이 나 허 가 업 종 영 위 시 그 허 가 ( 신 고 증 ) 사 본 또 는 사 업 계 획 서 파 일 찾 기\n[ 공 통 ] 동 업 계 약 서 ( 공 동 사 업 자 인 경 우 ) 파 일 찾 기\n[ 공 통 ] 자 금 출 처 소 명 서 ( 금 지 금 도 / 소 매 업 , 과 세 유 흥 장 소 에 서 의 영 업 ) 파 일 찾 기\n때 외 국 인 ] 재 외 국 민 등 록 증 또 는 등 록 부 등 본 TE 여 권 사 본 , 납 세 관 리 인 설 정 신 고 파 일 찾 기\n[ 매 인 으 로 보 는 단 체 ] 정 관 , 협 약 등 조 직 과 운 영 등에 관 한 규 정 파 일 찾 기\nㆍ 제 출 파 일 목 록\n\n파 일 삭제\n\nㅁ No 제 출 파 일 명 파 일 크 기"
+    },
+    {
+      "type": "text",
+      "data": "사업자등록 신청이 완료되면 입력한 휴대폰번호로 진행사항에 대한 안내 문자가 발송돼요. 사업자등록 신청 진행 사항은"
+    },
+    {
+      "type": "text",
+      "data": "> My 홈택스 > 민원처리결과 조회 페이지에서도 확인하실 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "3. 공동인증서 없이 5분 만에 온라인으로 사업자등록 바로 신청"
+    },
+    {
+      "type": "text",
+      "data": "많은 사장님들이 사업자를 내기도 전에 홈택스 ‘로그인’하다 지쳤다는 후기를 남겨주시는데요. 토스페이먼츠 사업자등록 바로 신청 서비스를 사용하면 공동인증서 로그인 없이 PC, 모바일로 5분 만에 사업자등록 신청을 끝낼 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "📘 신청 방법"
+    },
+    {
+      "type": "text",
+      "data": "① 토스페이먼츠"
+    },
+    {
+      "type": "text",
+      "data": "사이트에 접속해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "별도의 회원가입 없이 바로 등록하고 싶은 ‘상호명’을 입력한 후 사업자등록 신청 절차를 시작해 보세요. 상호명 입력 후 토스페이먼츠 이용과 국세청 홈택스 이용에 동의해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/ccd92156-8e8e-48ea-81bb-7c8ceaf4a2d0?&w=3840&q=75",
+      "ocr_text": ". payments\n\n홈 택 스 개 인 사 업 자 등 록\n바 로 신 청 하 기\n\n공 동 인 증 서 , 수 수 료 없 이 빠 르 게\n\n상 호 명 을 입 력 하 세 요\n\nCT\n\n1. 상 호 명 은 기 억 되 기 쉽 도록 간 결 한 이 름이 좋 아 요 .\n2. 사 업 자 등 록 증 상 상 호 명 과 쇼 핑 몰 이 름 은 같 지 않 아도 돼 요 .\n3. 나 중 에 바 꾸 고 싶 다면 ' 정 정 신 고 ' 로 간 단 히 HBS 수 있 어 요 ."
+    },
+    {
+      "type": "text",
+      "data": "② 사장님이 운영할 사업 업종을 선택해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠 사업자등록 바로 신청 서비스는 온라인 판매를 준비하는 사장님에게 특화되어 있어요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/c59bc979-61d8-4422-93e1-9cd5defa0753?&w=3840&q=75",
+      "ocr_text": "해 당 되 는 사 업 유 형 을\n모 두 선 택 해 주 세 요\n\n. 전 자 상 거래 소 마 임\nSUC SUSI 쇼 핑 몰 이 나 스 마 트 스 토 어 ,\nEE 6 마 켓 쿠 팡 과 같 은 오 픈 마 켓 에 서 판 매 하 실 경 우 선 택\n\n@ weit 소 매 증 개 임\n.@ 마 켓 , BA Zo 여 러 판 매 자 름 모 아\n구 매 자 와 판 매 자 를 중 개 하 는 BAS AVS 하 실 aS 선 택\n\n56 마 핏\n\n블 로 그 , 카 페 , 인 스 타 그 램 과 같 은\n8045 채 널 을 활 용 해 수 익 을 얻 으 실 AS 선 택\n\n소 분 류 를 선 택 해 주 세 요\n사 입 한 상 품 을 소 매 판 매 ( 대 부 분 이 분 류 선 택 )\n사 입 하 지 않 고 중 개 판 매\n\n해 외 직 구 대 행 업\n해 외 쇼 핑 몰 의 상 품 을 주 문 한 고 객 의 이 름과 주 소 로\n대 신 구 매 해 주 는 방 식 으 로 판 매 하 실 경 우 선 택\n\n는 . 좁"
+    },
+    {
+      "type": "text",
+      "data": "③ 과세유형을 선택해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "시작하는 사장님 대부분이 간이과세자에 해당하지만,"
+    },
+    {
+      "type": "text",
+      "data": "은 세금 낼 때 중요한 영향을 주기 때문에 신중하게 선택해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/2b386ffe-a99f-4cf9-9324-9270fd6e5fcb?&w=3840&q=75",
+      "ocr_text": "과 세 유 형 을 선 택 해 주 세 요\n\n시 작 하 는 단 계 의 사 업 자 들 은 보 통 간 이 과 세 자 에 해 당 돼 요 .\n\n간 이 과 세 자\n연 매 출 8 천 만 원 미 만\n\n일 반 사 업 자\n연 매 출 8 천 만 원 이상\n\n면 세 사 업 자\n\nMagia\n\nBSI 않 은 ARBs FA), 도 서 판 매 및 대 여 업 (Ale, BAI AA, 병 의 원 , 대 부 업 , 학 원 , 금 융 이 나 보 험 용 역 , 종 교 나 AE, PH, 북 권 판 매 업 ,\n예 술 창 작 품 , Og ab af 티 켓 판 매 , 주 택 , 토 지 임 대 업\n\n면 세 사 업 자 는 물 건 을 판 매 할 때 소 비 자 에 게 10% 부 가 세 을 부 과 하 지 않 아 요 . Ct, 납 부 할 MONS 없 지만 매 출 내 역과 oH INNO AIDE! 의 무 가 있 기 때 문 에 1 년 에 1 번\nAIR ALB jets\n\n만 약 면 세 품 독 과 과 세 풍 목 을 함 께 판 매 한 다면 간 미 과 세 자 를 선 택 해 주 세 요 .\n\n이 전 단 계"
+    },
+    {
+      "type": "text",
+      "data": "④ 대표자 정보를 입력해 주세요."
+    },
+    {
+      "type": "text",
+      "data": "이름, 생년월일 6자리, 이메일 주소, 휴대폰번호, 통신사를 입력해 주세요. 입력을 마치면 카카오, 네이버, PASS 중 더 편리한 ‘간편인증’ 수단을 선택해 주세요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/b907489f-b9c5-4cdc-bf67-0100ac9d0c32?&w=3840&q=75",
+      "ocr_text": "‘Oo\n밑\n\noz\n\nyb.\n\n3 해 주 세 요\n\n띠\nJ\n\n대 표 자\n\n대 표 자 이름\n대 표 자 생 년 월 일 6 자 리\n\n대 표 자 이 메 일 주 소\n\n대 표 자 휴 대 폰 번 호 ( 숫 자 만 입 력 )\n\n휴 대 폰 통 신 사\n\n이 전 단 계 폐"
+    },
+    {
+      "type": "text",
+      "data": "⑤ 사업자등록 신청이 완료됐어요."
+    },
+    {
+      "type": "text",
+      "data": "간편인증을 마치고 나면 사업자등록 신청이 완료돼요. 홈택스 확인 과정이 끝나면 사업자등록증이 발급돼요. 보통 1-3일 내에 확인할 수 있어요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/live/80b04211-6ea2-4427-b75d-87dcf21c25f5?&w=3840&q=75",
+      "ocr_text": "사 업 자 등 록 바 로 신 청 완 료\n\n1~3 일 내 로 사 업 자 등 록 증 이 발 급 될 예 정 이 에 요 ."
+    },
+    {
+      "type": "text",
+      "data": "온라인 쇼핑몰을 준비하고 계신 사장님이라면 5분 만에 사업자등록 신청 마치고, 하루라도 더 빠르게 사업을 시작해 보세요."
+    },
+    {
+      "type": "text",
+      "data": "📍 함께 읽으면 좋을 콘텐츠"
+    },
+    {
+      "type": "text",
+      "data": "Edit"
+    },
+    {
+      "type": "text",
+      "data": "공다솜"
+    },
+    {
+      "type": "text",
+      "data": "Graphic"
+    },
+    {
+      "type": "text",
+      "data": "이은호, 김지화"
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠의 모든 콘텐츠는 사업자에게 도움이 될 만한 일반적인 정보를 ‘참고 목적’으로 한정해 제공하고 있습니다. 구체적 사안에 관한 자문 또는 홍보를 위한 것이 아니므로 콘텐츠 내용의 적법성이나 정확성에 대해 보증하지 않으며, 콘텐츠에서 취득한 정보로 인해 직간접적인 손해가 발생해도 어떠한 법적 책임도 부담하지 않습니다."
+    },
+    {
+      "type": "text",
+      "data": "ⓒ토스페이먼츠, 무단 전재 및 배포 금지"
+    },
+    {
+      "type": "text",
+      "data": "공동인증서 없이 5분 만에 사업자등록 완료하고 싶다면?"
+    },
+    {
+      "type": "text",
+      "data": "사업자등록 바로 신청"
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://blog-cdn.tosspayments.com/wp-content/uploads/2022/09/06211020/payments.png?&w=3840&q=75",
+      "ocr_text": ""
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠"
+    },
+    {
+      "type": "text",
+      "data": "고객사의 성장이 곧 우리의 성장이라는 확신을 가지고 더 나은 결제 경험을 만듭니다. 결제가 불편한 순간을 기록하고 바꿔갈게요."
+    }
+  ]
+}

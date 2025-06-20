@@ -1,0 +1,380 @@
+{
+  "url": "https://www.tosspayments.com/blog/articles/semo-33",
+  "title": "자사몰 고민 중이라면? 호스팅사 장단점 꼭 비교해 보세요",
+  "content_ordered": [
+    {
+      "type": "text",
+      "data": "[사장님백서] 호스팅사 개념, 호스팅사 선택 기준을 정리해 봤어요"
+    },
+    {
+      "type": "text",
+      "data": "10분만 시간 내면"
+    },
+    {
+      "type": "text",
+      "data": "✔️ 호스팅에 대한 개념을 이해하고, 호스팅사로 쇼핑몰 웹사이트를 만들 때의 장단점을 알 수 있어요.\n✔️ 원하는 스타일의 쇼핑몰을 만들려면 어떤 호스팅사를 선택해야 할지 알 수 있어요.\n✔️ 호스팅사 비교를 통해 우리 쇼핑몰에 맞는 호스팅사를 선택할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 호스팅이 뭔가요?"
+    },
+    {
+      "type": "text",
+      "data": "우리가 인터넷에 접속해 방문하는 웹사이트를 집이라고 생각해 볼게요. 웹사이트 주소는 집주소 같은 개념이죠. 무엇보다 집을 짓기 위해서는 ‘땅’이 필요하잖아요. 호스팅은 바로 이 땅 나아가 건물을 빌려주는 서비스라고 할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "호스팅 hosting 서비스는 웹사이트를 만들기 위해 필요한 서버 컴퓨터의 일부 공간을 임대해 주는 서비스를 말해요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/af519b8f-92b1-48ee-9677-cc938b54f191?&w=3840&q=75",
+      "ocr_text": "| 사 이 트\n\n<|\n100\n\n토 지 ="
+    },
+    {
+      "type": "text",
+      "data": "우리가 토지, 주거용 건물, 상가 건물 등을 나눠서 알아보는 것처럼 호스팅에도 종류가 있어요. 쇼핑몰 호스팅은 상품 판매에 특화된 온라인 공간을 임대해 주는 서비스예요. 마치 오프라인에서 상점 운영에 특화된 상가 건물 임대 같은 개념이죠."
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 웹사이트는 일반 웹사이트와 달리 2가지 기능이 필요해요."
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 호스팅사는 이 2가지 기능을 바로 사용할 수 있는 쇼핑몰 웹사이트 형태를 제공하고요."
+    },
+    {
+      "type": "text",
+      "data": "✅ 구매자가 상품을 구매할 수 있는 ‘결제’ 기능\n✅ 판매자가 판매할 때 필요한 ‘관리’ 기능 (상품관리, 재고관리 등)"
+    },
+    {
+      "type": "text",
+      "data": "공간을 임대해 원하는 방향으로 리모델링하는 것처럼 쇼핑몰 호스팅사에서 웹사이트를 만들어 원하는 방향으로 디자인을 하고, 필요한 것들을 채워 사장님만의 쇼핑몰을 비교적 쉽게 만들 수 있는 것이죠."
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 직접 개발 VS 호스팅사 장단점 비교"
+    },
+    {
+      "type": "text",
+      "data": "누구나 쇼핑몰을 시작할 때 비교적 쉽고 빠르게 호스팅사를 통해 쇼핑몰 웹사이트를 만들지, 먼 훗날 잘 됐을 때를 대비해 직접 쇼핑몰 웹사이트를 만들지 고민하게 돼요. 2가지 방법 모두 장단점이 분명해요."
+    },
+    {
+      "type": "text",
+      "data": "(1) 쇼핑몰 홈페이지 직접 제작"
+    },
+    {
+      "type": "text",
+      "data": "👍 장점"
+    },
+    {
+      "type": "text",
+      "data": "웹사이트 제작에 구조적인 제약이 없고, 원하는 방식으로 개발 가능해요."
+    },
+    {
+      "type": "text",
+      "data": "사이트 구조 변경을 원할 경우 직접 개발하면 되기 때문에 자유도가 높아요."
+    },
+    {
+      "type": "text",
+      "data": "👎 단점"
+    },
+    {
+      "type": "text",
+      "data": "기획자, 프로그래머, 디자이너 등 많은 인력이 필요해요."
+    },
+    {
+      "type": "text",
+      "data": "사이트 제작 범위에 따라 구축 기간이 오래 소요될 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "웹사이트에 장애가 발생했을 때 내부 전문 인력이 없을 경우, 피해가 지속될 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "구축뿐 아니라 유지 보수에도 비용일 발생할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "별도로 서버를 마련해야 하기 때문에 서버 임대 비용이 발생해요."
+    },
+    {
+      "type": "text",
+      "data": "(2) 쇼핑몰 홈페이지 호스팅사에서 제작"
+    },
+    {
+      "type": "text",
+      "data": "호스팅사에서 제공한 형태로 쇼핑몰을 제작하는 것이기 때문에 제작 시간이 짧고, 비교적 부담 없는 비용으로 제작할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "사이트 방문자 트래픽에 따라 서버 비용을 결제할 수 있기 때문에 서버 비용을 아낄 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "결제대행, 마케팅, 데이터 분석 관련 다양한 부가서비스 이용할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "호스팅사에서 제공한 형태 안에서만 쇼핑몰 제작이 가능해 원하는 모든 기능, 디자인을 구현할 수 없어요."
+    },
+    {
+      "type": "text",
+      "data": "정답은 없어요. 사장님 상황에 훨씬 유리하다고 판단되는 걸 선택하면 돼요. 다만 혼자서 쇼핑몰을 시작하려고 하는 초보 사장님에게 ‘호스팅사’는 빨리 그리고 효율적으로 쇼핑몰 운영을 할 수 있게 해주는 좋은 선택지가 될 수 있어요. 또 마케팅, 데이터 분석같은 부가서비스를 사용하기 위해 호스팅사를 선택하는 경우도 많아요."
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 호스팅사 선택 기준 2가지"
+    },
+    {
+      "type": "text",
+      "data": "호스팅사를 이용해 쇼핑몰을 만들기로 했다면, 다음 2가지 기준을 고려해 호스팅사를 선택하는 것이 좋아요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/332c4ae5-e1b9-4785-9700-8b51c54aa50f?&w=3840&q=75",
+      "ocr_text": ""
+    },
+    {
+      "type": "text",
+      "data": "✅ 호스팅 서비스의 안정성과 속도"
+    },
+    {
+      "type": "text",
+      "data": "가장 중요한 부분이에요. 쇼핑몰에 접속했는데 페이지도 늦게 뜨고, 결제를 하려고 했는데 오류가 생겼다고 가정해 볼게요. 고객 입장에서 그 쇼핑몰을 믿을 수 있을까요?"
+    },
+    {
+      "type": "text",
+      "data": "호스팅사가 서비스를 안정적으로 잘 운영하는지, 서버 접속이 빠르고 원활하게 되는지 꼭 확인하셔야 해요."
+    },
+    {
+      "type": "text",
+      "data": "호스팅사 고를 때, 실제 해당 호스팅 서비스에서 쇼핑몰을 만든 분들의 후기 꼭 찾아보세요. 오랜 기간, 많은 고객이 선택한 호스팅사라면 서비스 안정성이 높을 가능성이 커요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/40b380a5-ba4a-4d31-8744-afef4e869253?&w=3840&q=75",
+      "ocr_text": "2022 국 내 웹 호 스 팅 시 장 점 유 율\n\nA 스 토 이소\n511%\n\n익 스 프 레스 엔 젤\n\n5.81%\n\n시 스 샤\n느 [ 괄 — |\n1215%\n\n카 페 24\n\n40.98%\n\n아 임 웹\n\n23.45%\n\n[SA] trend. builtwith.com"
+    },
+    {
+      "type": "text",
+      "data": "✅ 호스팅 이용요금"
+    },
+    {
+      "type": "text",
+      "data": "국내 사용자가 많은 호스팅사의 이용요금을 정리해 봤어요."
+    },
+    {
+      "type": "text",
+      "data": "같은 호스팅사라도 호스팅 서비스 종류에 따라 이용요금이 달라요."
+    },
+    {
+      "type": "text",
+      "data": "이용요금 체계를 보통 ‘플랜’이라고 불러요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/3f3da592-891b-4993-90a0-ef4ad93cd5d2?&w=3840&q=75",
+      "ocr_text": "아 임 웹\n\n흐\nI>\n뚜\n\n역 스 프 레\n\nI>\nre\n면\n\n괴스 스 토 어 스\n\n최 저 가 : Free 무 료\n최 고 가 : Global 2 40,000 원\n1 개 월 플\n\nH : 29,920 원 ( 부 가 세 포 함 )\n6 개 월 Be : 163,200 원 ( 부 가 세 포 함 )\n\nfe\n\ntu\n\n『\n\n최 저 가 : Starter 3,500,000 원\n최 고 가 : Enterprise 9,000,000 원\n\n최 저 가 : 비 즈 니 스 베 이직 월 05 $17\n최 고 가 : 비 즈 니 스 니 ㅁ 월 US $35"
+    },
+    {
+      "type": "text",
+      "data": "호스팅사마다 플랜이 다르고, 플랜에 따라 기능 차이도 있어요. 구체적인 기능과 상세 요금 정보가 필요하다면 아래 링크를 눌러 확인해 보세요."
+    },
+    {
+      "type": "text",
+      "data": "호스팅사 요금 안내"
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 호스팅사 특징과 장단점 비교"
+    },
+    {
+      "type": "text",
+      "data": "호스팅 서비스 안정성과 가격을 확인했다면, 쇼핑몰 호스팅사의 특징과 장단점을 비교해 보세요. 사장님 니즈에 따라 호스팅사의 특징이 큰 변수가 될 수 있기 때문이에요."
+    },
+    {
+      "type": "text",
+      "data": "✅ 쇼핑몰 호스팅사 비교하기 전에 할 일"
+    },
+    {
+      "type": "text",
+      "data": "사장님이 ‘괜찮다’, ‘이런 식으로 만들면 좋겠다’라고 생각한 쇼핑몰 웹사이트를 먼저 리스트업 해보세요. 그리고 그 쇼핑몰 웹사이트가 어떤 호스팅사를 썼는지 확인해 보세요. 쇼핑몰 하단에 보면 쇼핑몰 정보가 나오는데요. 거기에 호스팅 제공자가 누구인지 확인하면 돼요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/032732ae-d44b-4f86-8823-3fc913d9596f?&w=3840&q=75",
+      "ocr_text": "소 : 서 울 특\n\n( 주 ) 김 비 바 토 스 | 대 표 : 김 비 바 ㅣ 전 화 :070-999-9999 | 이 메 일 : 비 \\8@1/8655.000\n\n별 시 비 바 구 비 바 로 59 | 사 업 자 등 록 번 호 :9000000 | 통 신 판 매 : 제 0000- 서 울 비 바 -0000 호\n\n안 전 구 매 ( 에 스 크 로 ) 서 비 스 가 맹 점\n\n이 용 약 관 개 인 정 보 처 리 방 침\nCopyright © vivatoss\n\n사 업 자 정 보 확 인"
+    },
+    {
+      "type": "text",
+      "data": "적당한 레퍼런스를 찾기 어렵다면, 이"
+    },
+    {
+      "type": "text",
+      "data": "에 접속해 쇼핑몰 호스팅사에서 만든 실제 쇼핑몰 웹사이트 예시를 찾아보세요."
+    },
+    {
+      "type": "text",
+      "data": "사장님이 제작하고 싶은 웹사이트와 비슷한 웹사이트를 만든 호스팅사를 선정하는 것도 도움이 돼요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/daae5721-3749-4fc2-a1c4-583e225d0a05?&w=3840&q=75",
+      "ocr_text": "911 up for Fre\n\nbunumn Tools ¥ Features + ans Customers sources h, Keywor Lookup\n\nHome / Trends / eCommerce / Cafe24 Usage Statistics / Cafe24 Website List / South Korea\n\nWebsites 45109 Cafe24 in South Korea Download Full Lead List\n\nDownload a list of all 32,086 Cafe24 Customers in South Korea Create a Free Account to see more results.\nWebsite Location Sales Revenue  TechSpend —_Social Employees Traffic\n\n쥐 stylenanda.com ] South Korea $156k+ $500+ 20,000+ Medium =v\nimvely.com 1@: South Korea $181k+ $1000+ Medium =v\n\n텔 stereo-shop.com @! South Korea $38k+ $500+ 10,000+ _ “\n\n24 yauzen.com\n\nSouth Korea $146k+ $2000+ - v\n\n\\ vhmall.net jouth Korea $125k+ $2000+ ” ”\n탤 210001 South Korea $0+ 0 이\n§ sister-ann.com : South Korea $132k+ $2000+ v\n5 swanicoco.co.kr ‘@! South Korea $25k+ $250+ 5,000+ + ”\n\nsecondmorning.co.kr ‘@! South Korea $13k+ $100+ - 기"
+    },
+    {
+      "type": "text",
+      "data": "▲ 카페24로 만든 쇼핑몰 리스트"
+    },
+    {
+      "type": "text",
+      "data": "✔️ 개발 지식이 조금 있다면 카페 24"
+    },
+    {
+      "type": "text",
+      "data": "의 가장 큰 특징은 HTML/ CSS 등 웹 개발 지식을 보유하며 무료로 쇼핑몰 페이지 제작이 가능하다는 점이에요. 개발을 할 수 있는 내부 인력만 있다면 쇼핑몰 웹페이지를 구성할 때의 자유도도 높아져요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/66d514ec-cb18-46e4-bdad-1c8b6813d368?&w=3840&q=75",
+      "ocr_text": "280107\n\nA)\n\n4\n\now\n\nDrJart+\n\nminsshop\n\nMONICA-ROOM\n\n4\n\n카 페 24 =\n\n# 육 육 걸 즈\n\nBENITO\n\nas\nSISTER ANN\n\n가 누개 =\n2\n^\n\n레\n든 쇼 핑 몰\n\nHOTPING\n\nㅇ eet\n\nDogshower\n\na\n\nana\n\nWASH\n\n=~,"
+    },
+    {
+      "type": "text",
+      "data": "▲ 출처 – 카페24"
+    },
+    {
+      "type": "text",
+      "data": "국내에서 가장 많은 사용자를 보유한 호스팅사예요. 안정성과 신뢰도가 높아요."
+    },
+    {
+      "type": "text",
+      "data": "규모가 큰 브랜드나 복잡한 기능을 갖춘 쇼핑몰도 개발할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "개발지식이 있다면 서비스를 무료로 활용해 쇼핑몰을 제작하고 운영할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "개발지식이 크게 없어도 유료/무료 스킨 구매를 해서 쇼핑몰 사이트를 만들 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "개발 자유도가 높은 만큼 쇼핑몰을 만들고 유지하는 난이도가 높아요. 카페24가 제공한 스킨을 구매해도 내부에 전문 인력이 필요할 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "✔️ 개발 지식이 없다면, 아임웹 또는 식스샵"
+    },
+    {
+      "type": "text",
+      "data": ","
+    },
+    {
+      "type": "text",
+      "data": "은 브랜딩이 중요한 스몰브랜드에서 선호해요. 쉽고 가볍게 시작할 수 있고요."
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/e7019e7a-44d5-4611-b60b-c3feb9db8270?&w=3840&q=75",
+      "ocr_text": "아 임 웹 으 로 만\n\n드브 - uw\n\nrin\nE>\n\n프 | 모\n핑 몰\n\nbelabef . BINCENT | cri | OPEN PATH ce LAMAISON SSS\n\n쓰 기 클 럽 、 앤 트 러 사 이 트 _ \\010005 «= 46[* . 070046 BOE EOP\n\nTaD) . Be\nBYULBA (|) meet me “WANGY — andblank “B eS\n\nMADAMJOO -Pisea Pisea HWAJIN Be\" SKIN RESET"
+    },
+    {
+      "type": "text",
+      "data": "▲ 출처 – 아임웹"
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://static.toss-internal.com/ipd-tcs/toss_core/staging/564921ea-3882-41a5-b151-c5b50525b271?&w=3840&q=75",
+      "ocr_text": "Ballessimo 。 %o00nco Rael Oth, wuzik Tieer zero wourence\nKANEITEI P@GNAE p.palette Mud Scone sailors hozumi DF\na theAton CUECLYP VALLUY DAEAT\n\nAA OR nna OOS 접퓨 CS) svormenos\n\n°\nCELLOOM $"
+    },
+    {
+      "type": "text",
+      "data": "▲ 출처 – 식스샵"
+    },
+    {
+      "type": "text",
+      "data": "사용하기 쉬워요. 드래그 앤 드롭 drag & drop 방식으로 마우스를 사용해 원하는 디자인을 구현할 수 있는 개발 환경을 제공하기 때문에 개발과 디자인 지식이 없어도 쇼핑몰 개발이 가능해요."
+    },
+    {
+      "type": "text",
+      "data": "PC와 모바일 화면 사이즈가 달라서 같은 화면도 여러 번 작업해야 하는 경우도 있어요. 식스샵과 아임웹은 반응형 쇼핑몰 제작을 할 수 있어서 1번만 작업해도 PC, 모바일에 맞게 자동으로 반영되는 쇼핑몰을 만들 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "아임웹과 식스샵이 제공한 형태 안에서만 기능, 디자인을 구현할 수 있어요. 구현에 어느 정도 한계가 있어서 큰 브랜드보다 스몰 브랜드에 적합해요."
+    },
+    {
+      "type": "text",
+      "data": "검색하다 보면 워드프레스, 윅스 등 외국 호스팅을 사용하는 분들도 있어요. 초보고, 개발 지식이 없는 사장님이라면 외국 호스팅보다 국내 호스팅을 추천드려요. 특별한 이유가 없다면 고객센터, 커뮤니티 등이 더욱 활발한 곳의 서비스를 쓰는 게 더 도움이 되기 때문이에요."
+    },
+    {
+      "type": "text",
+      "data": "반대로 글로벌 타깃의 쇼핑몰을 한다면 윅스처럼 해외 제품이 고객에게 더 친숙하게 느껴질 수 있으니 사장님의 상황을 잘 따져보고 결정하는 것이 중요해요."
+    },
+    {
+      "type": "text",
+      "data": "💪"
+    },
+    {
+      "type": "text",
+      "data": "바쁜 사장님을 위한 2줄 정리"
+    },
+    {
+      "type": "text",
+      "data": "쇼핑몰 호스팅사를 통해 쇼핑몰 웹사이트를 제작하면, 자체적으로 개발하는 것보다 비교적 빠르고 저렴하게 쇼핑몰 웹사이트를 만들 수 있어요."
+    },
+    {
+      "type": "text",
+      "data": "‘호스팅 서비스의 안정성 및 속도’ 그리고 ‘이용료 가격’ 두 가지를 고려하면, 좋은 쇼핑몰 호스팅사를 찾을 수 있어요. 일반적으로 많은 사용자가 이용하고 있는 호스팅사가 이 두 가지 기준을 만족할 확률이 높아요."
+    },
+    {
+      "type": "text",
+      "data": "Edit"
+    },
+    {
+      "type": "text",
+      "data": "공다솜, 임보라"
+    },
+    {
+      "type": "text",
+      "data": "Graphic"
+    },
+    {
+      "type": "text",
+      "data": "이은호, 조영주"
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠의 모든 콘텐츠는 사업자에게 도움이 될 만한 일반적인 정보를 ‘참고 목적’으로 한정해 제공하고 있습니다. 구체적 사안에 관한 자문 또는 홍보를 위한 것이 아니므로 콘텐츠 내용의 적법성이나 정확성에 대해 보증하지 않으며, 콘텐츠에서 취득한 정보로 인해 직간접적인 손해가 발생해도 어떠한 법적 책임도 부담하지 않습니다."
+    },
+    {
+      "type": "text",
+      "data": "ⓒ토스페이먼츠, 무단 전재 및 배포 금지"
+    },
+    {
+      "type": "text",
+      "data": "호스팅사를 선택했다면? 전자결제서비스(PG)도 잘 골라야 해요!"
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠 서비스 소개서"
+    },
+    {
+      "type": "image",
+      "img_url": "https://core-cdn-fe.toss.im/image/optimize/?src=https://blog-cdn.tosspayments.com/wp-content/uploads/2022/09/06211020/payments.png?&w=3840&q=75",
+      "ocr_text": ""
+    },
+    {
+      "type": "text",
+      "data": "토스페이먼츠"
+    },
+    {
+      "type": "text",
+      "data": "고객사의 성장이 곧 우리의 성장이라는 확신을 가지고 더 나은 결제 경험을 만듭니다. 결제가 불편한 순간을 기록하고 바꿔갈게요."
+    }
+  ]
+}
