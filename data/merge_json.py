@@ -1,7 +1,7 @@
 import os
 import json
 
-BASE_PATH = "toss_ocr"
+BASE_PATH = "toss"
 
 for folder_name in os.listdir(BASE_PATH):
     folder_path = os.path.join(BASE_PATH, folder_name)
