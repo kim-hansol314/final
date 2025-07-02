@@ -48,3 +48,15 @@ def save_or_update_phq9_result(db: Session, user_id: int, score: int, level: str
 
 def get_latest_phq9_by_user(db: Session, user_id: int):
     return db.query(PHQ9Result).filter_by(user_id=user_id).first()
+
+def create_user(db: Session, email: str, password: str, nickname: str = "", business_type: str = ""):
+    user = User(
+        email=email,
+        password=password,
+        nickname=nickname,
+        business_type=business_type,
+    )
+    db.add(user)
+    db.commit()
+    db.refresh(user)
+    return user

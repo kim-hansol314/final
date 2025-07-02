@@ -2,9 +2,9 @@ from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
 from app.database import SessionLocal
 from app.models import Conversation
-from app.schemas import ChatRequest, ChatResponse, ConversationCreate
+from app.schemas import ChatRequest, ChatResponse, ConversationCreate, UserCreate
 from app.mental_agent_graph import build_mental_graph
-from app.crud import create_message
+from app.crud import create_message, create_user
 
 app = FastAPI()
 
@@ -52,3 +52,14 @@ def create_conversation(req: ConversationCreate, db: Session = Depends(get_db)):
     db.commit()
     db.refresh(conv)
     return {"conversation_id": conv.conversation_id}
+
+@app.post("/signup")
+def signup(req: UserCreate, db: Session = Depends(get_db)):
+    user = create_user(
+        db,
+        email=req.email,
+        password=req.password,
+        nickname=req.nickname,
+        business_type=req.business_type
+    )
+    return {"user_id": user.user_id}
