@@ -60,3 +60,20 @@ def create_user(db: Session, email: str, password: str, nickname: str = "", busi
     db.commit()
     db.refresh(user)
     return user
+
+def get_user_by_social(db: Session, provider: str, social_id: str):
+    return db.query(User).filter(User.provider == provider, User.social_id == social_id).first()
+
+def create_user_social(db: Session, provider: str, social_id: str, email: str, nickname: str = "", access_token=None):
+    user = User(
+        email=email,
+        password=None,  # 소셜 로그인은 비밀번호 없음
+        nickname=nickname,
+        provider=provider,
+        social_id=social_id,
+        access_token=access_token
+    )
+    db.add(user)
+    db.commit()
+    db.refresh(user) 
+    return user

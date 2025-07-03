@@ -10,11 +10,14 @@ class User(Base):
     __tablename__ = "user"
     user_id = Column(Integer, primary_key=True, autoincrement=True)
     email = Column(String(255), unique=True, nullable=False)
-    password = Column(String(255), nullable=False)
+    password = Column(String(255), nullable=True)  
     nickname = Column(String(100))
     business_type = Column(String(100))
+    provider = Column(String(32), default="local")
+    social_id = Column(String(128), nullable=True)
     created_at = Column(DateTime, default=datetime.now)
     admin = Column(Boolean, default=False)
+    access_token = Column(String(1024), nullable=True)
     conversations = relationship("Conversation", back_populates="user")
     phq9_result = relationship("PHQ9Result", back_populates="user", uselist=False)
 
@@ -22,7 +25,6 @@ class Conversation(Base):
     __tablename__ = "conversation"
     conversation_id = Column(Integer, primary_key=True, autoincrement=True)
     user_id = Column(Integer, ForeignKey("user.user_id"), nullable=False)
-    conversation_type = Column(String(50))
     started_at = Column(DateTime, default=datetime.now)
     ended_at = Column(DateTime)
     is_visible = Column(Boolean, default=False)

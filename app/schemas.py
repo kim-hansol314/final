@@ -19,3 +19,10 @@ class UserCreate(BaseModel):
     password: str
     nickname: str = ""
     business_type: str = ""
+    
+class SocialLoginRequest(BaseModel):
+    provider: str            
+    social_id: str
+    email: str = None
+    nickname: str = ""
+    business_type: str = ""
